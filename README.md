@@ -1,4 +1,4 @@
-# blood-and-iron-b
-Take two for HopHacks.
+# blood-and-iron
+Enjoy our WW2 game!
 
-By Ethan Bunagan and Emmanuel Cruzat.
+By Ethan Bunagan and Emmanuel Cruzat
